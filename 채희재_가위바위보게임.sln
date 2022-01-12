@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "채희재_가위바위보게임", "채희재_가위바위보게임\채희재_가위바위보게임.csproj", "{39EC510D-860D-4735-8AB4-D2073C2986F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "가위바위보dll", "가위바위보dll\가위바위보dll.csproj", "{A49B2D72-8785-46A4-979D-908A70C7B99F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39EC510D-860D-4735-8AB4-D2073C2986F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39EC510D-860D-4735-8AB4-D2073C2986F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39EC510D-860D-4735-8AB4-D2073C2986F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39EC510D-860D-4735-8AB4-D2073C2986F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A49B2D72-8785-46A4-979D-908A70C7B99F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A49B2D72-8785-46A4-979D-908A70C7B99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A49B2D72-8785-46A4-979D-908A70C7B99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A49B2D72-8785-46A4-979D-908A70C7B99F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE6BA995-B9DC-4DFF-BAAC-6D5F5B92C7FD}
+	EndGlobalSection
+EndGlobal
